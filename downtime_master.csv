@@ -1,0 +1,62 @@
+Batch;Factor_Number;Downtime_Minutes;Description;Operator Error;Date;Product;Operator;Total_Minutes
+422111;2;60;Batch change;Yes;29/08/2024;OR-600;Mac;135
+422111;7;15;Machine failure;No;29/08/2024;OR-600;Mac;135
+422112;2;20;Batch change;Yes;29/08/2024;LE-600;Mac;100
+422112;8;20;Batch coding error;Yes;29/08/2024;LE-600;Mac;100
+422113;2;50;Batch change;Yes;29/08/2024;LE-600;Mac;110
+422117;2;10;Batch change;Yes;29/08/2024;LE-600;Charlie;75
+422117;6;5;Machine adjustment;Yes;29/08/2024;LE-600;Charlie;75
+422114;4;25;Inventory shortage;No;29/08/2024;LE-600;Mac;100
+422114;6;15;Machine adjustment;Yes;29/08/2024;LE-600;Mac;100
+422115;10;24;Calibration error;Yes;29/08/2024;LE-600;Charlie;84
+422118;7;16;Machine failure;No;30/08/2024;CO-600;Dee;120
+422118;6;14;Machine adjustment;Yes;30/08/2024;CO-600;Dee;120
+422118;11;10;Label switch;Yes;30/08/2024;CO-600;Dee;120
+422118;12;20;Other;No;30/08/2024;CO-600;Dee;120
+422119;4;25;Inventory shortage;No;30/08/2024;CO-600;Dee;85
+422120;4;20;Inventory shortage;No;30/08/2024;CO-600;Dee;112
+422120;5;15;Product spill;Yes;30/08/2024;CO-600;Dee;112
+422120;9;17;Conveyor belt jam;No;30/08/2024;CO-600;Dee;112
+422121;7;15;Machine failure;No;30/08/2024;CO-600;Dennis;75
+422122;7;25;Machine failure;No;30/08/2024;CO-600;Dennis;85
+422123;4;43;Inventory shortage;No;30/08/2024;CO-600;Dennis;133
+422123;7;30;Machine failure;No;30/08/2024;CO-600;Dennis;133
+422124;5;20;Product spill;Yes;30/08/2024;CO-600;Dennis;100
+422124;6;20;Machine adjustment;Yes;30/08/2024;CO-600;Dennis;100
+422125;11;10;Label switch;Yes;30/08/2024;CO-600;Charlie;80
+422125;12;10;Other;No;30/08/2024;CO-600;Charlie;80
+422126;8;44;Batch coding error;Yes;30/08/2024;CO-600;Charlie;104
+422127;6;23;Machine adjustment;Yes;30/08/2024;CO-600;Charlie;83
+422128;5;22;Product spill;Yes;30/08/2024;CO-600;Charlie;112
+422128;7;30;Machine failure;No;30/08/2024;CO-600;Charlie;112
+422129;12;15;Other;No;30/08/2024;CO-600;Charlie;75
+422130;2;20;Batch change;Yes;31/08/2024;CO-600;Dee;80
+422131;4;20;Inventory shortage;No;31/08/2024;CO-600;Dee;90
+422131;10;10;Calibration error;Yes;31/08/2024;CO-600;Dee;90
+422133;7;20;Machine failure;No;31/08/2024;DC-600;Dee;80
+422134;7;30;Machine failure;No;31/08/2024;DC-600;Mac;110
+422134;8;20;Batch coding error;Yes;31/08/2024;DC-600;Mac;110
+422135;4;30;Inventory shortage;No;31/08/2024;DC-600;Mac;105
+422135;12;15;Other;No;31/08/2024;DC-600;Mac;105
+422137;8;30;Batch coding error;Yes;02/09/2024;RB-600;Dee;105
+422137;10;15;Calibration error;Yes;02/09/2024;RB-600;Dee;105
+422138;3;20;Labeling error;No;02/09/2024;RB-600;Dee;80
+422139;4;20;Inventory shortage;No;02/09/2024;RB-600;Dee;95
+422139;6;15;Machine adjustment;Yes;02/09/2024;RB-600;Dee;95
+422140;6;50;Machine adjustment;Yes;02/09/2024;RB-600;Dee;123
+422140;11;13;Label switch;Yes;02/09/2024;RB-600;Dee;123
+422141;12;7;Other;No;02/09/2024;RB-600;Dennis;67
+422142;6;30;Machine adjustment;Yes;02/09/2024;RB-600;Dennis;90
+422143;6;40;Machine adjustment;Yes;02/09/2024;RB-600;Dennis;118
+422143;7;18;Machine failure;No;02/09/2024;RB-600;Dennis;118
+422144;6;30;Machine adjustment;Yes;02/09/2024;CO-2L;Dennis;152
+422144;8;24;Batch coding error;Yes;02/09/2024;CO-2L;Dennis;152
+422145;3;22;Labeling error;No;02/09/2024;CO-2L;Charlie;120
+422146;6;30;Machine adjustment;Yes;02/09/2024;CO-2L;Charlie;160
+422146;7;25;Machine failure;No;02/09/2024;CO-2L;Charlie;160
+422146;12;7;Other;No;02/09/2024;CO-2L;Charlie;160
+422147;4;17;Inventory shortage;No;02/09/2024;CO-2L;Charlie;205
+422147;6;60;Machine adjustment;Yes;02/09/2024;CO-2L;Charlie;205
+422147;7;30;Machine failure;No;02/09/2024;CO-2L;Charlie;205
+422148;4;25;Inventory shortage;No;03/09/2024;CO-2L;Mac;130
+422148;8;7;Batch coding error;Yes;03/09/2024;CO-2L;Mac;130
