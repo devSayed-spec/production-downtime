@@ -2,6 +2,15 @@
 
 SQL and Python portfolio project analyzing downtime and productivity data from a soda bottling production line, identifying the biggest drivers of downtime and how actual line performance compares to the production standard.
 
+## TL;DR
+A soda bottling line had significant downtime, but no clear picture of the causes.
+I unpivoted 12 downtime-factor columns in Power Query, fixed negative durations from batches crossing midnight, and combined downtime + productivity + product standards into PostgreSQL for layered SQL analysis.
+Key findings: overall line efficiency is 64.02%; the top 3 downtime factors (machine adjustment, machine failure, inventory shortage) account for 58% of 1,388 downtime minutes;
+55.9% of downtime is preventable; OR-600 is the least efficient product (44.44%);
+Mac's downtime is 68% concentrated in "Batch change" — a specific, actionable training gap.
+Recommendation: prioritize equipment maintenance, targeted batch-change SOP training for Mac, review the OR-600 time standard, and fix inventory scheduling.
+Dataset: Dataset: [Manufacturing Downtime](https://mavenanalytics.io/data-playground/manufacturing-downtime), Maven Analytics — single line, limited window, correlational.
+
 ## Project Information
 
 Role: Data Analyst, Independent Project
